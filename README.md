@@ -36,6 +36,12 @@ Final score = 0.4 × Graph + 0.3 × Text + 0.3 × Image
 | Robotics | 53 |
 | **Total** | **500** |
 
+## Dataset
+
+The SciFlow-Bench dataset is publicly available on Hugging Face:
+
+https://huggingface.co/datasets/LHL3341/autobench_2025
+
 ## Project Structure
 
 ```
